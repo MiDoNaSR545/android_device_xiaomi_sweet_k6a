@@ -6,6 +6,9 @@
 
 DEVICE_PATH := device/xiaomi/sweet_k6a
 
+# Inherit from sm6150-common
+include device/xiaomi/sm6150-common/BoardConfigCommon.mk
+
 # Kernel
 TARGET_KERNEL_CONFIG := sweet_defconfig
 
