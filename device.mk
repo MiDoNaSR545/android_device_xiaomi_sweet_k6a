@@ -75,6 +75,7 @@ DEVICE_PACKAGE_OVERLAYS += \
 
 # Overlay-RRO
 PRODUCT_PACKAGES += \
+  	SettingsOverlayRR \
     SweetWifiOverlay
 
 # Partitions
