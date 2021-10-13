@@ -43,6 +43,10 @@ vendor/lib/libhfp.so
 vendor/lib/libsndmonitor.so
 vendor/lib/libspkrprot.so
 
+# Batterysecret
+-vendor/bin/batterysecret
+vendor/etc/init/init.batterysecret.rc
+
 # Camera
 system_ext/lib/vendor.qti.hardware.seccam@1.0.so
 system_ext/lib64/vendor.qti.hardware.seccam@1.0.so
