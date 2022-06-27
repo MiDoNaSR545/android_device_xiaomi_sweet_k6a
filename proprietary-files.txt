@@ -1,3 +1,5 @@
+# Unpinned blobs from sweet_global2-user 11 RKQ1.210614.002 V14.0.4.0.THGMIXM release-keys
+
 # ACDB
 vendor/etc/acdbdata/Forte/Forte_Bluetooth_cal.acdb
 vendor/etc/acdbdata/Forte/Forte_Codec_cal.acdb
