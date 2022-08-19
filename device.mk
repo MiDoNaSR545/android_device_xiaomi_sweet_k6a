@@ -26,7 +26,8 @@ PRODUCT_COPY_FILES += \
 
 # Camera
 PRODUCT_PACKAGES += \
-    CutoutRingServiceSweet
+    CutoutRingServiceSweet \
+    libpiex_shim
 
 # Display
 PRODUCT_COPY_FILES += \
