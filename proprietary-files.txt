@@ -548,7 +548,3 @@ vendor/etc/thermal-video.conf
 vendor/etc/thermal-videochat.conf
 vendor/etc/thermal-youtube.conf
 vendor/etc/thermald-devices.conf
-
-
-# WLAN
-vendor/bin/cnss-daemon
