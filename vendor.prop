@@ -24,6 +24,3 @@ persist.vendor.audio.fluence.voicerec=false
 ro.qc.sdk.audio.fluencetype=none
 ro.vendor.audio.sdk.fluencetype=fluence
 vendor.audio.feature.fluence.enable=true    
-
-# Perf
-ro.vendor.extension_library=libqti-perfd-client.so
