@@ -5,3 +5,6 @@
 #
 
 DEVICE_PATH := device/xiaomi/sweet_k6a
+
+# Inherit from proprietary files
+include vendor/xiaomi/sweet/BoardConfigVendor.mk
