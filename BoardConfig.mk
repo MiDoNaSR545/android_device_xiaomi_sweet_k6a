@@ -9,6 +9,9 @@ DEVICE_PATH := device/xiaomi/sweet_k6a
 # Inherit from sm6150-common
 include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 
+# Assert
+TARGET_OTA_ASSERT_DEVICE := sweet
+
 # Audio
 TARGET_PROVIDES_AUDIO_EXTNS := true
 
