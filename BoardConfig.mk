@@ -12,6 +12,9 @@ include device/xiaomi/sm6150-common/BoardConfigCommon.mk
 # Audio
 TARGET_PROVIDES_AUDIO_EXTNS := true
 
+# Display
+TARGET_SCREEN_DENSITY := 440
+
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/hidl/manifest.xml
 
