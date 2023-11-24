@@ -39,6 +39,8 @@ vendor/lib/libaudioroute_ext.so
 
 # Audio extensions
 vendor/lib/btaudio_offload_if.so
+vendor/lib/libqtigef.so
+vendor/lib/libadm.so
 vendor/lib/liba2dpoffload.so
 vendor/lib/libhdmiedid.so
 vendor/lib/libhfp.so
