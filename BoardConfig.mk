@@ -75,4 +75,4 @@ BOARD_VENDOR_SEPOLICY_DIRS += $(DEVICE_PATH)/sepolicy/vendor
 VENDOR_SECURITY_PATCH := 2023-09-01
 
 # Inherit from proprietary files
-include vendor/xiaomi/sweet/BoardConfigVendor.mk
+include vendor/xiaomi/sweet_k6a/BoardConfigVendor.mk
