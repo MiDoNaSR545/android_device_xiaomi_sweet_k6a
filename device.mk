@@ -102,4 +102,4 @@ PRODUCT_PACKAGES += \
     vndservicemanager
 
 # Call the proprietary setup
-$(call inherit-product, vendor/xiaomi/sweet_k6a/sweet-vendor.mk)
+$(call inherit-product, vendor/xiaomi/sweet_k6a/sweet_k6a-vendor.mk)

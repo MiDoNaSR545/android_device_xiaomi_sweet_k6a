@@ -23,7 +23,7 @@ PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC=sweet_global-user 11 RKQ1.210614.002 V14.0.4.0.THGMIXM release-keys"
+    PRIVATE_BUILD_DESC="sweet_global-user 11 RKQ1.210614.002 V14.0.4.0.THGMIXM release-keys"
 
 # Set BUILD_FINGERPRINT variable to be picked up by both system and vendor build.prop
 BUILD_FINGERPRINT := "Redmi/sweet_global2/sweet:11/RKQ1.210614.002/V14.0.4.0.THGMIXM:user/release-keys"
