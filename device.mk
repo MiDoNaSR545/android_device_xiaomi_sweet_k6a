@@ -31,8 +31,8 @@ PRODUCT_PACKAGES += \
 
 # Display
 PRODUCT_COPY_FILES += \
-    $(LOCAL_PATH)/configs/display/qdcm_calib_data_xiaomi_k6_38_0c_0a_fhd_dsc_video_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_k6a_38_0c_0a_fhd_dsc_video_dsi_panel.xml \
-    $(LOCAL_PATH)/configs/display/qdcm_calib_data_xiaomi_k6_38_0c_0b_fhd_dsc_video_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_k6a_38_0c_0b_fhd_dsc_video_dsi_panel.xml
+    $(LOCAL_PATH)/configs/display/qdcm_calib_data_xiaomi_k6_38_0c_0a_fhd_dsc_video_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_k6_38_0c_0a_fhd_dsc_video_dsi_panel.xml \
+    $(LOCAL_PATH)/configs/display/qdcm_calib_data_xiaomi_k6_38_0e_0b_fhd_dsc_video_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_xiaomi_k6_38_0e_0b_fhd_dsc_video_dsi_panel.xml
 
 # Keylayout
 PRODUCT_COPY_FILES += \
@@ -102,4 +102,4 @@ PRODUCT_PACKAGES += \
     vndservicemanager
 
 # Call the proprietary setup
-$(call inherit-product, vendor/xiaomi/sweet_k6a/sweet-vendor.mk)
+$(call inherit-product, vendor/xiaomi/sweet_k6a/sweet_k6a-vendor.mk)
