@@ -421,6 +421,9 @@ vendor/lib64/libmivendor_module_motor.so
 vendor/lib64/mi.motor.daemon.so
 vendor/lib64/vendor.xiaomi.hardware.motor@1.0.so
 
+# Camera-firmware
+vendor/firmware/CAMERA_ICP.elf
+
 # DRM
 -vendor/lib64/liboemcrypto.so
 
@@ -452,6 +455,11 @@ vendor/firmware/a618_gmu.bin
 vendor/firmware/a630_gmu.bin
 vendor/firmware/a630_sqe.fw
 vendor/firmware/a640_gmu.bin
+
+# Haptic firmware
+vendor/firmware/aw8622x_haptic.bin
+
+
 
 # IR
 -vendor/lib64/hw/consumerir.default.so:vendor/lib64/hw/consumerir.sm6150.so

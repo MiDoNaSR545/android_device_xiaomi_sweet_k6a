@@ -6,6 +6,8 @@
 
 DEVICE_PATH := device/xiaomi/sweet_k6a
 BUILD_BROKEN_DUP_RULES := true
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+SELINUX_IGNORE_NEVERALLOWS := true
 
 # Inherit from sm6150-common
 include device/xiaomi/sm6150-common/BoardConfigCommon.mk
@@ -24,9 +26,6 @@ DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/configs/hidl/manifest.xml
 
 # Kernel
 TARGET_KERNEL_CONFIG := sweet_defconfig
-
-# Recovery
-TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/rootdir/etc/fstab.qcom
 
 # Partitions
 BOARD_BOOTIMAGE_PARTITION_SIZE := 134217728
