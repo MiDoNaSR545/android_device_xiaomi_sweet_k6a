@@ -1,4 +1,4 @@
-# **THIS DEVICE TREE IS STILL IN EXPERIMENTAL**
+# **WARNING: THIS IS AN EXPERIMENTAL DEVICE TREE**
 Device configuration for Xiaomi Redmi Note 12 Pro
 =========================================
 
