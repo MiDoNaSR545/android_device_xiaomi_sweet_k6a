@@ -21,5 +21,4 @@ Display | 1080 x 2400 pixels, 6.67 inches, 20:9 ratio (~395 ppi density)
 Camera  | 108 MP wide camera, 8MP ultrawide camera, 2MP macro camera, 2MP depth camera, LED flash,HDR, panorama, 16 MP selfie camera
 
 ## Device picture
-
-![Xiaomi Redmi Note 12 Pro](https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1681210731.51053703.png)
+<img src="https://i01.appmifile.com/v1/MI_18455B3E4DA706226CF7535A58E875F0267/pms_1681210731.51053703.png" alt="Xiaomi Redmi Note 12 Pro" style="width:640px;"/>
